@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POOProjectMusicAndPodcast")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0109001643b6fe15a16f56e02a1ab5e970e7863f")]
 [assembly: System.Reflection.AssemblyProductAttribute("POOProjectMusicAndPodcast")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POOProjectMusicAndPodcast")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
