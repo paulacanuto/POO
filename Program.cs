@@ -39,7 +39,7 @@ void ExibirLogo()
     Console.WriteLine("Welcome to Music and Podcast!");
 }
 
-void ExibirOpcoesDoMenu()
+void ShowMenuOptions()
 {
     ExibirLogo();
     Console.WriteLine("\nDigite 1 para registrar uma banda");
@@ -57,12 +57,12 @@ void ExibirOpcoesDoMenu()
     {
         Menu menuASerExibido = opcoes[opcaoEscolhidaNumerica];
         menuASerExibido.Execute(artistRegistered);
-        if (opcaoEscolhidaNumerica > 0) ExibirOpcoesDoMenu();
+        if (opcaoEscolhidaNumerica > 0) ShowMenuOptions();
     }
     else
     {
-        Console.WriteLine("Opção inválida");
+        Console.WriteLine("Invalid Option");
     }
 }
 
-ExibirOpcoesDoMenu();
+ShowMenuOptions();

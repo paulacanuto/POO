@@ -1,0 +1,15 @@
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\obj\Debug\net8.0\POOProjectMusicAndPodcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\obj\Debug\net8.0\POOProjectMusicAndPodcast.AssemblyInfoInputs.cache
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\obj\Debug\net8.0\POOProjectMusicAndPodcast.AssemblyInfo.cs
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\obj\Debug\net8.0\POOProjectMusicAndPodcast.csproj.CoreCompileInputs.cache
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\obj\Debug\net8.0\POOProjectMusicAndPodcast.sourcelink.json
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\bin\Debug\net8.0\POOProjectMusicAndPodcast.exe
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\bin\Debug\net8.0\POOProjectMusicAndPodcast.deps.json
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\bin\Debug\net8.0\POOProjectMusicAndPodcast.runtimeconfig.json
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\bin\Debug\net8.0\POOProjectMusicAndPodcast.dll
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\bin\Debug\net8.0\POOProjectMusicAndPodcast.pdb
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\obj\Debug\net8.0\POOProjectMusicAndPodcast.dll
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\obj\Debug\net8.0\refint\POOProjectMusicAndPodcast.dll
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\obj\Debug\net8.0\POOProjectMusicAndPodcast.pdb
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\obj\Debug\net8.0\POOProjectMusicAndPodcast.genruntimeconfig.cache
+C:\Users\Paulinha Canuto\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\IPCA\3º Semestre\POO\TrabalhoPOO\POOProjectMusicAndPodcast\obj\Debug\net8.0\ref\POOProjectMusicAndPodcast.dll

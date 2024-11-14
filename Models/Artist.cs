@@ -2,8 +2,7 @@
 
 internal class Artist
 {
-   // private string ArtistName;
-   // private int ArtistIdade;
+
     private List<Album> albuns = new List<Album>();
     private List<Ranking> scores = new List<Ranking>();
   
@@ -11,17 +10,6 @@ internal class Artist
     {
         Name = name;
     }
-    // public string NameArtist
-    //{
-    //    get { return NameArtist; }
-    //       private set { NameArtist = value; }
-    //  }
-
-    //  public Artist(string name)
-    //  {
-    //      ArtistName = name;
-    //      ArtistIdade = 0;
-    //  }
 
     public string Name { get; }
     public double Average
@@ -46,10 +34,10 @@ internal class Artist
 
     public void ShowDiscograph()
     {
-        Console.WriteLine($"Discografia da banda {Name}");
+        Console.WriteLine($"Discograph of the artist {Name}");
         foreach (Album album in albuns)
         {
-            Console.WriteLine($"Álbum: {album.Name} ({album.AlbumTime})");
+            Console.WriteLine($"Album: {album.Name} ({album.AlbumTime})");
         }
     }
 }

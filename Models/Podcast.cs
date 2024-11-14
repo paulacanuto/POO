@@ -2,7 +2,7 @@
 
 internal class Podcast
 {
-    public Podcast(Artist episode = new List<Episode>();
+    private List<Episode> episodes = new List<Episode>();
 
     public Podcast(string name)
     {
@@ -10,21 +10,21 @@ internal class Podcast
     }
 
     public string Name { get; }
-    public int PodcastTime => episode.Sum(m => m.PodcastTime);
-    public List<Episode> Episode => episode;
+    public int PodcastTime => episodes.Sum(m => m.EpTime);
+    public List<Episode> Episodes => episodes;
 
     public void AdicionarMusica(Episode episode)
     {
-        episode.Add(episode);
+        episodes.Add(episode);
     }
 
     public void ShowPodcastEpisodes()
     {
-        Console.WriteLine($"Lista de episódios do podcast {Name}:\n");
-        foreach (var episode in episode)
+        Console.WriteLine($"Episode list of Podcast {Name}:\n");
+        foreach (var episode in episodes)
         {
-            Console.WriteLine($"Música: {episode.Name}");
+            Console.WriteLine($"Episode: {episode.Name}");
         }
-        Console.WriteLine($"\nPara ouvir este álbum inteiro você precisa de {AlbumTime}");
+        Console.WriteLine($"\nIf you want to listen all the episodes off this podcast, you need a{PodcastTime} minutes.");
     }
 }

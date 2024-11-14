@@ -21,11 +21,11 @@ public void ExibirFichaTecnica()
     Console.WriteLine($"Time: {EpTime}");
     if (Available)
     {
-        Console.WriteLine("Disponível no plano.");
+        Console.WriteLine("Available in your signature.");
     }
     else
     {
-        Console.WriteLine("Adquira o plano Plus+");
+        Console.WriteLine("Add Plus signature now!");
     }
 }
 }

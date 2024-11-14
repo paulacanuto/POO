@@ -20,11 +20,11 @@ internal class Album
 
     public void ShowMusicsAlbum()
     {
-        Console.WriteLine($"Lista de músicas do álbum {Name}:\n");
+        Console.WriteLine($"Complet list of the album {Name}:\n");
         foreach (var music in musics)
         {
-            Console.WriteLine($"Música: {music.Name}");
+            Console.WriteLine($"Music: {music.Name}");
         }
-        Console.WriteLine($"\nPara ouvir este álbum inteiro você precisa de {AlbumTime}");
+        Console.WriteLine($"\nIf you want to listen all the musics off this album, you need a {AlbumTime} minutes");
     }
 }
