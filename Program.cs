@@ -1,25 +1,68 @@
-﻿Music music1 = new Music();
-music1.name = "Everybody";
-music1.artist = "Backstreet Boys";
-music1.time = 203;
-music1.avabble = true;
+﻿using POOProjectMusicAndPodcast.Menus;
+using POOProjectMusicAndPodcast.Models;
 
-Music music2 = new Music();
-music2.name = "Don't Speak";
-music2.artist = "No Doubt";
-music2.time = 196;
-music2.avabble = true;
+Artist ira = new Artist("Ira");
+ira.AddScore(new Ranking(10));
+ira.AddScore(new Ranking(8));
+ira.AddScore(new Ranking(6));
+Artist beatles = new("The Beatles");
 
-Music music3 = new Music();
-music3.name = "All I Have To Give";
-music3.artist = "Backstreet Boys";
-music3.time = 216;
-music3.avabble = true;
+Dictionary<string, Artist> artistRegistered = new();
+artistRegistered.Add(ira.Name, ira);
+artistRegistered.Add(beatles.Name, beatles);
 
-Music music4 = new Music();
-music4.name = "In The End";
-music4.artist = "Linkin Park";
-music4.time = 197;
-music4.avabble = true;
+Dictionary<int, Menu> opcoes = new();
+opcoes.Add(1, new MenuArtistProfile());
+opcoes.Add(2, new MenuAlbumProfile());
+opcoes.Add(3, new MenuShowArtists());
+opcoes.Add(4, new MenuArtistScore());
+opcoes.Add(5, new MenuShowInformations());
+opcoes.Add(-1, new MenuLogOff());
 
-Music music5 = new Music();
+void ExibirLogo()
+{
+    Console.WriteLine(@"
+███╗░░░███╗██╗░░░██╗░██████╗██╗░█████╗░  ░█████╗░███╗░░██╗██████╗░
+████╗░████║██║░░░██║██╔════╝██║██╔══██╗  ██╔══██╗████╗░██║██╔══██╗
+██╔████╔██║██║░░░██║╚█████╗░██║██║░░╚═╝  ███████║██╔██╗██║██║░░██║
+██║╚██╔╝██║██║░░░██║░╚═══██╗██║██║░░██╗  ██╔══██║██║╚████║██║░░██║
+██║░╚═╝░██║╚██████╔╝██████╔╝██║╚█████╔╝  ██║░░██║██║░╚███║██████╔╝
+╚═╝░░░░░╚═╝░╚═════╝░╚═════╝░╚═╝░╚════╝░  ╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░
+
+██████╗░░█████╗░██████╗░░█████╗░░█████╗░░██████╗████████╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝
+██████╔╝██║░░██║██║░░██║██║░░╚═╝███████║╚█████╗░░░░██║░░░
+██╔═══╝░██║░░██║██║░░██║██║░░██╗██╔══██║░╚═══██╗░░░██║░░░
+██║░░░░░╚█████╔╝██████╔╝╚█████╔╝██║░░██║██████╔╝░░░██║░░░
+╚═╝░░░░░░╚════╝░╚═════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░
+");
+    Console.WriteLine("Welcome to Music and Podcast!");
+}
+
+void ExibirOpcoesDoMenu()
+{
+    ExibirLogo();
+    Console.WriteLine("\nDigite 1 para registrar uma banda");
+    Console.WriteLine("Digite 2 para registrar o álbum de uma banda");
+    Console.WriteLine("Digite 3 para mostrar todas as bandas");
+    Console.WriteLine("Digite 4 para avaliar uma banda");
+    Console.WriteLine("Digite 5 para exibir os detalhes de uma banda");
+    Console.WriteLine("Digite -1 para sair");
+
+    Console.Write("\nDigite a sua opção: ");
+    string opcaoEscolhida = Console.ReadLine()!;
+    int opcaoEscolhidaNumerica = int.Parse(opcaoEscolhida);
+
+    if (opcoes.ContainsKey(opcaoEscolhidaNumerica))
+    {
+        Menu menuASerExibido = opcoes[opcaoEscolhidaNumerica];
+        menuASerExibido.Execute(artistRegistered);
+        if (opcaoEscolhidaNumerica > 0) ExibirOpcoesDoMenu();
+    }
+    else
+    {
+        Console.WriteLine("Opção inválida");
+    }
+}
+
+ExibirOpcoesDoMenu();
