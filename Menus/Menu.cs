@@ -1,4 +1,7 @@
-﻿using POOProjectMusicAndPodcast.Models;
+﻿/// <summary>
+/// This class is to use in another menus.
+/// </summary>
+using POOProjectMusicAndPodcast.Models;
 
 namespace POOProjectMusicAndPodcast.Menus;
 

@@ -14,7 +14,7 @@ namespace POOProjectMusicAndPodcast.Menus
                 Artist artist = artistRegistered[artistName];
                 Console.WriteLine($"\nThe artist {artistName} have {artist.Average} in score.");
                 /**
-                * ESPAÇO RESERVADO PARA COMPLETAR A FUNÇÃO
+                * Space reserved for add another things about de artist. Maybe will be implemented in the future.
                 */
                 Console.WriteLine("Press any key to return the menu:");
                 Console.ReadKey();

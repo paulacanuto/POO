@@ -1,4 +1,7 @@
-﻿using POOProjectMusicAndPodcast.Models;
+﻿/// <summary>
+/// This class is a menu about the artist profile.
+/// </summary>
+using POOProjectMusicAndPodcast.Models;
 
 namespace POOProjectMusicAndPodcast.Menus;
 

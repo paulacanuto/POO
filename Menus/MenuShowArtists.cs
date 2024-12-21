@@ -1,4 +1,7 @@
-﻿using POOProjectMusicAndPodcast.Models;
+﻿/// <summary>
+/// This class is a menu to view informations about the artists.
+/// </summary>
+using POOProjectMusicAndPodcast.Models;
 
 namespace POOProjectMusicAndPodcast.Menus;
 

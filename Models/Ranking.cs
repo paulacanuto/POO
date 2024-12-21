@@ -1,8 +1,11 @@
-﻿namespace POOProjectMusicAndPodcast.Models;
+﻿/// <summary>
+/// This class is about ranking.
+/// </summary>
+namespace POOProjectMusicAndPodcast.Models;
+
 internal class Ranking
 {
-    public Ranking
-        (int score)
+    public Ranking(int score)
     {
         Score = score;
     }

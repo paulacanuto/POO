@@ -1,4 +1,7 @@
-﻿namespace POOProjectMusicAndPodcast.Models;
+﻿/// <summary>
+/// This class is about musics.
+/// </summary>
+namespace POOProjectMusicAndPodcast.Models;
 
 internal class Music
 {

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\models\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:models\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +29,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\menus\\menushowartists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:menus\\menushowartists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\menus\\menulogoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:menus\\menulogoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\menus\\menuartistscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:menus\\menuartistscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\menus\\menuartistprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,30 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\menus\\menushowinformations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:menus\\menushowinformations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\menus\\menushowartists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:menus\\menushowartists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\menus\\menulogoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:menus\\menulogoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\menus\\menuartistscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:menus\\menuartistscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:models\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|c:\\users\\paulinha canuto\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\desktop\\ipca\\3\u00BA semestre\\poo\\trabalhopoo\\pooprojectmusicandpodcast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1433D340-291C-4432-8291-004A19D8093C}|POOProjectMusicAndPodcast.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,17 +66,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Music.cs",
               "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Music.cs",
               "RelativeDocumentMoniker": "Models\\Music.cs",
               "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Music.cs",
               "RelativeToolTip": "Models\\Music.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T15:29:18.238Z",
               "IsPinned": true,
@@ -84,171 +84,172 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Album.cs",
-              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Album.cs",
-              "RelativeDocumentMoniker": "Models\\Album.cs",
-              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Album.cs",
-              "RelativeToolTip": "Models\\Album.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:33:45.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuArtistProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuArtistProfile.cs",
-              "RelativeDocumentMoniker": "Menus\\MenuArtistProfile.cs",
-              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuArtistProfile.cs",
-              "RelativeToolTip": "Menus\\MenuArtistProfile.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T20:30:01.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuAlbumProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuAlbumProfile.cs",
-              "RelativeDocumentMoniker": "Menus\\MenuAlbumProfile.cs",
-              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuAlbumProfile.cs",
-              "RelativeToolTip": "Menus\\MenuAlbumProfile.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T21:01:02.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "MenuShowArtists.cs",
               "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuShowArtists.cs",
               "RelativeDocumentMoniker": "Menus\\MenuShowArtists.cs",
               "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuShowArtists.cs",
               "RelativeToolTip": "Menus\\MenuShowArtists.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T20:38:12.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MenuShowInformations.cs",
-              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuShowInformations.cs",
-              "RelativeDocumentMoniker": "Menus\\MenuShowInformations.cs",
-              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuShowInformations.cs",
-              "RelativeToolTip": "Menus\\MenuShowInformations.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAA+wBIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T20:09:45.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\Menu.cs",
-              "RelativeDocumentMoniker": "Menus\\Menu.cs",
-              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\Menu.cs",
-              "RelativeToolTip": "Menus\\Menu.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "Models\\Album.cs",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Album.cs",
+              "RelativeToolTip": "Models\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T19:17:25.254Z",
+              "WhenOpened": "2024-10-26T15:33:45.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Artist.cs",
               "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Artist.cs",
               "RelativeDocumentMoniker": "Models\\Artist.cs",
               "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Artist.cs",
               "RelativeToolTip": "Models\\Artist.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA7wCcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T15:35:16.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Episode.cs",
               "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Episode.cs",
               "RelativeDocumentMoniker": "Models\\Episode.cs",
               "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Episode.cs",
               "RelativeToolTip": "Models\\Episode.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T15:39:24.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MenuLogOff.cs",
-              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuLogOff.cs",
-              "RelativeDocumentMoniker": "Menus\\MenuLogOff.cs",
-              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuLogOff.cs",
-              "RelativeToolTip": "Menus\\MenuLogOff.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T20:25:52.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuArtistScore.cs",
-              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuArtistScore.cs",
-              "RelativeDocumentMoniker": "Menus\\MenuArtistScore.cs",
-              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuArtistScore.cs",
-              "RelativeToolTip": "Menus\\MenuArtistScore.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T19:25:06.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Podcast.cs",
               "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Podcast.cs",
               "RelativeDocumentMoniker": "Models\\Podcast.cs",
               "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Podcast.cs",
               "RelativeToolTip": "Models\\Podcast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T15:37:12.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Score.cs",
-              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Score.cs",
-              "RelativeDocumentMoniker": "Models\\Score.cs",
-              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Score.cs",
-              "RelativeToolTip": "Models\\Score.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Ranking.cs",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Ranking.cs",
+              "RelativeDocumentMoniker": "Models\\Ranking.cs",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Models\\Ranking.cs",
+              "RelativeToolTip": "Models\\Ranking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T00:20:31.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T14:58:06.989Z"
+              "WhenOpened": "2024-10-26T14:58:06.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuLogOff.cs",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuLogOff.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuLogOff.cs",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuLogOff.cs",
+              "RelativeToolTip": "Menus\\MenuLogOff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:25:52.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuArtistScore.cs",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuArtistScore.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuArtistScore.cs",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuArtistScore.cs",
+              "RelativeToolTip": "Menus\\MenuArtistScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:25:06.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuArtistProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuArtistProfile.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuArtistProfile.cs",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuArtistProfile.cs",
+              "RelativeToolTip": "Menus\\MenuArtistProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:30:01.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuAlbumProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuAlbumProfile.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuAlbumProfile.cs",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuAlbumProfile.cs",
+              "RelativeToolTip": "Menus\\MenuAlbumProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:01:02.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\Menu.cs",
+              "RelativeDocumentMoniker": "Menus\\Menu.cs",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\Menu.cs",
+              "RelativeToolTip": "Menus\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:17:25.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuShowInformations.cs",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuShowInformations.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuShowInformations.cs",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\Desktop\\IPCA\\3\u00BA Semestre\\POO\\TrabalhoPOO\\POOProjectMusicAndPodcast\\Menus\\MenuShowInformations.cs",
+              "RelativeToolTip": "Menus\\MenuShowInformations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:09:45.783Z",
+              "EditorCaption": ""
             }
           ]
         }

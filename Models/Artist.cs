@@ -1,4 +1,7 @@
-﻿namespace POOProjectMusicAndPodcast.Models;
+﻿/// <summary>
+/// This class is about artists.
+/// </summary>
+namespace POOProjectMusicAndPodcast.Models;
 
 internal class Artist
 {

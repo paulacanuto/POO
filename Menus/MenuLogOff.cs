@@ -1,4 +1,7 @@
-﻿using POOProjectMusicAndPodcast.Models;
+﻿/// <summary>
+/// This class is a logoff menu.
+/// </summary>
+using POOProjectMusicAndPodcast.Models;
 
 namespace POOProjectMusicAndPodcast.Menus;
 
