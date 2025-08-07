@@ -1,2 +1,3 @@
 # POO
-Gestão de músicas e podcast: Sistema que permite gerir musicas e podcasts.
+Trabalho prático de Programação Orientada ao Objeto - Catalogar artistas, bandas, musicas, etc.
+Em desenvolvimento...
